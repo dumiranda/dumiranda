@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Eduardo M1r4nd4</h1>
-<h3 align="center">A passionate multi Specialist, Enthusiast Data_Dev_Game and Design from Brazil</h3>
+<h3 align="center">A passionate Enthusiast Data_Dev_Game and Design from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dumiranda&label=Profile%20views&color=0e75b6&style=flat" alt="dumiranda" /> </p>
 
 - 🔭 Working on Red Cliff Consultoria Editorial e Treinamentos **Teaching Programming in Basic Education**
 
-- 🌱 I’m currently learning **Python Projects, Deep Learning, Game Design, Game Dev**
+- 🌱 I’m currently learning **Python Projects, Machine/Deep Learning, Game Design, Game Dev**
 
 - 🤝 I’m looking for help with **Deep Learning**
 
-- 📝 I regularly write articles on [Linkedin (in Portuguese) and Medium (in English)])
+- 📝 I regularly write articles on [Linkedin (in Portuguese) and Medium (in English)](Linkedin (in Portuguese) and Medium (in English))
 
 - 📫 How to reach me **eduardomirandag7@gmail.com**
 
