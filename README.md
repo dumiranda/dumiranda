@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Deep Learning**
 
-- 📝 I regularly write articles on (Linkedin (in Portuguese) and Medium (in English)
+- 📝 I regularly write articles on Linkedin (in Portuguese) and Medium (in English)
 
 - 📫 How to reach me **eduardomirandag7@gmail.com**
 
