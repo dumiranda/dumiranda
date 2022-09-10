@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eduardo M1r4nd4</h1>
-<h3 align="center">A passionate Enthusiast Data_Dev_Game and Design from Brazil</h3>
+<h1 align="center">Hi 👋, I'm Eduardo M1r4nd4 from Brazil</h1>
+<h3 align="center">A passionate Enthusiast Data_Dev_Game and Design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dumiranda&label=Profile%20views&color=0e75b6&style=flat" alt="dumiranda" /> </p>
 
