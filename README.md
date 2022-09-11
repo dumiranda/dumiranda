@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dumiranda&label=Profile%20views&color=0e75b6&style=flat" alt="dumiranda" /> </p>
 
-- 🔭 Working on Red Cliff Consultoria Editorial e Treinamentos **Teaching Programming in Basic Education**
+- 🔭 Working on Redcliff Consultoria Editorial e Treinamentos **Teaching Programming in Basic Education**
 
 - 🌱 I’m currently learning **Python Projects, Machine/Deep Learning, Game Design, Game Dev**
 
