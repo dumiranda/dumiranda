@@ -23,3 +23,8 @@
 <img src="https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141" />
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dumiranda&show_icons=true&locale=en&layout=compact" alt="dumiranda" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dumiranda&show_icons=true&locale=en" alt="dumiranda" /></p>
