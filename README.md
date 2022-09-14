@@ -7,12 +7,11 @@
 - 📝 More recently, I have been developing volunteer projects to teach programming in basic education, especially in public schools using NoCode and LowCode Tools.
 
 - 📫 How to reach me 
-- eduardomirandag7@gmail.com     - **https://www.linkedin.com/in/edu4rd0-m1r4nd4/**
+- eduardomirandag7@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/edu4rd0-m1r4nd4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edu4rd0-m1r4nd4/" height="30" width="40" /></a>
-<a href="https://instagram.com/edu.mi.ran.da" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edu.mi.ran.da" height="30" width="40" /></a>
 <a href="https://medium.com/@eduardoamirandag7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eduardoamirandag7" height="30" width="40" /></a>
 </p>
 
