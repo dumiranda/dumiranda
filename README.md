@@ -24,3 +24,7 @@
 <img src="https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141" />
+
+</div>
+![Snake animation](https://github.com/dumiranda/dumiranda/blob/output/github-contribution-grid-snake.svg)
+ 
