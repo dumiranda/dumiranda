@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dumiranda&label=Profile%20views&color=0e75b6&style=flat" alt="dumiranda" /> </p>
 
-- 🔭 Working as freelancer
-
-- 🌱 I’m currently learning **Python Projects, Machine/Deep Learning, Game Design, Game Dev**
-
 - 📝 I regularly write articles on Linkedin (in Portuguese) and Medium (in English)
 
 - 📫 How to reach me 
