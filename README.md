@@ -6,7 +6,8 @@
 - 📝 I regularly write articles on Linkedin (in Portuguese) and Medium (in English)
 - 📝 More recently, I have been developing volunteer projects to teach programming in basic education, especially in public schools using NoCode and LowCode Tools.
 
-<p align="center"> - 📫 How to reach me 
+<p align="center"> 
+- 📫 How to reach me 
 - **eduardomirandag7@gmail.com** 
 - **https://www.linkedin.com/in/edu4rd0-m1r4nd4/**
 
