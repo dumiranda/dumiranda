@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dumiranda&label=Profile%20views&color=0e75b6&style=flat" alt="dumiranda" /> </p>
 
-- 🔭 Working on Redcliff Consultoria Editorial e Treinamentos **Teaching Programming in Basic Education**
+- 🔭 Working as freelancer
 
 - 🌱 I’m currently learning **Python Projects, Machine/Deep Learning, Game Design, Game Dev**
 
 - 📝 I regularly write articles on Linkedin (in Portuguese) and Medium (in English)
 
-- 📫 How to reach me **eduardomirandag7@gmail.com**
+- 📫 How to reach me **eduardomirandag7@gmail.com** **https://www.linkedin.com/in/edu4rd0-m1r4nd4/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
