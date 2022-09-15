@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dumiranda&label=Profile%20views&color=0e75b6&style=flat" alt="dumiranda" /> </p>
 
 - 📝 I regularly write articles on Linkedin (in Portuguese) and Medium (in English)
-- 📝 More recently, I have been developing volunteer projects to teach programming in basic education, especially in public schools using NoCode and LowCode Tools.
+- 📝 More recently, I have been developing volunteer projects to teach programming in basic education using NoCode and LowCode Tools.
 
 - 📫 How to reach me 
-- eduardomirandag7@gmail.com
+          eduardomirandag7@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
