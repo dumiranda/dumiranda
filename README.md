@@ -9,6 +9,8 @@
 - 📫 How to reach me 
           eduardomirandag7@gmail.com
 
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/64503210/190487055-b9becd31-26c7-41ff-b64a-c8d9aad56c81.svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/edu4rd0-m1r4nd4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edu4rd0-m1r4nd4/" height="30" width="40" /></a>
