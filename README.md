@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dumiranda&show_icons=true&locale=en" alt="dumiranda" /></p>
 
-![Github softwares Du](https://user-images.githubusercontent.com/64503210/190514325-29b1b77e-0018-4d2d-8535-c49b719fd08c.png)
+![Github softwares Du](https://user-images.githubusercontent.com/64503210/190515110-d366933d-086d-4360-90b9-78c2fdae4ad2.png)
