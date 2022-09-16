@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dumiranda&label=Profile%20views&color=0e75b6&style=flat" alt="dumiranda" /> </p>
 
 
-![ghub bar 1a](https://user-images.githubusercontent.com/64503210/190495629-847b2f7a-5d0d-4b30-8239-ba95fee39bf7.png)
+![Line](https://user-images.githubusercontent.com/64503210/190542696-6749b732-3e4f-41f9-9b34-ed38d0399bbd.png)
 
 
 - 📝 I regularly write articles on Linkedin (in Portuguese) and Medium (in English)
@@ -20,7 +20,7 @@
 </p>
 
 
-![ghub bar 1b](https://user-images.githubusercontent.com/64503210/190495575-97e090a6-cd88-4912-9a8e-88110c1bc624.png)
+![Line](https://user-images.githubusercontent.com/64503210/190542696-6749b732-3e4f-41f9-9b34-ed38d0399bbd.png)
 
 
 <h3 align="left">Languages and Tools:</h3>
