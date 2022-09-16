@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dumiranda&label=Profile%20views&color=0e75b6&style=flat" alt="dumiranda" /> </p>
 
 
-![Line](https://user-images.githubusercontent.com/64503210/190542696-6749b732-3e4f-41f9-9b34-ed38d0399bbd.png)
+![LINE THIN](https://user-images.githubusercontent.com/64503210/190831327-77c150ce-e1d9-421a-9093-c350fdf75606.png)
 
 
 - 📝 I regularly write articles on Linkedin (in Portuguese) and Medium (in English)
@@ -20,7 +20,7 @@
 </p>
 
 
-![Line](https://user-images.githubusercontent.com/64503210/190542696-6749b732-3e4f-41f9-9b34-ed38d0399bbd.png)
+![LINE THIN](https://user-images.githubusercontent.com/64503210/190831327-77c150ce-e1d9-421a-9093-c350fdf75606.png)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,7 +37,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dumiranda&show_icons=true&locale=en" alt="dumiranda" /></p>
 
-![Line](https://user-images.githubusercontent.com/64503210/190542696-6749b732-3e4f-41f9-9b34-ed38d0399bbd.png)
+![LINE THIN](https://user-images.githubusercontent.com/64503210/190831327-77c150ce-e1d9-421a-9093-c350fdf75606.png)
 
 ![Github softwares Du](https://user-images.githubusercontent.com/64503210/190529969-e3b3c15e-cb52-42ef-b56c-e4c7fda27028.png)
 
