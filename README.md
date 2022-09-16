@@ -37,5 +37,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dumiranda&show_icons=true&locale=en" alt="dumiranda" /></p>
 
+![Line](https://user-images.githubusercontent.com/64503210/190542696-6749b732-3e4f-41f9-9b34-ed38d0399bbd.png)
+
 ![Github softwares Du](https://user-images.githubusercontent.com/64503210/190529969-e3b3c15e-cb52-42ef-b56c-e4c7fda27028.png)
 
