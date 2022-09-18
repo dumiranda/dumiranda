@@ -7,7 +7,7 @@
 ![LINE THIN](https://user-images.githubusercontent.com/64503210/190831327-77c150ce-e1d9-421a-9093-c350fdf75606.png)
 
 
-- 📝 I regularly write articles on Linkedin (in Portuguese) and Medium (in English)
+- 📝 I usually write articles on Linkedin (in Portuguese) and Medium (in English)
 - 📝 More recently, I have been developing volunteer projects to teach programming in basic education using NoCode and LowCode Tools.
 
 - 📫 How to reach me 
