@@ -31,5 +31,5 @@
 
 ![LINE THIN](https://user-images.githubusercontent.com/64503210/190831327-77c150ce-e1d9-421a-9093-c350fdf75606.png)
 
-![Github softwares Du](https://user-images.githubusercontent.com/64503210/190529969-e3b3c15e-cb52-42ef-b56c-e4c7fda27028.png)
+![Github softwares Du](https://user-images.githubusercontent.com/64503210/191132222-391df6e1-753a-40cf-9670-4ea480b103ee.png)
 
