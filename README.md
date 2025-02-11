@@ -11,7 +11,7 @@
 - 📝 More recently, I have been developing volunteer projects to teach programming in basic education using NoCode and LowCode Tools.
 
 - 📫 How to reach me 
-          eduardomirandag7@gmail.com
+          eduardoamirandag7@gmail.com
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
