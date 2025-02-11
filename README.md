@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, I'm M1r4nd4</h1>
+<h1 align="center">Hello World, It's me M1r4nd4</h1>
 <h3 align="center">An Enthusiast Data_Dev_Game and Design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dumiranda&label=Profile%20views&color=0e75b6&style=flat" alt="dumiranda" /> </p>
