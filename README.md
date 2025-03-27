@@ -7,7 +7,6 @@
 
 
 - 📝 I usually write articles on Linkedin (in Portuguese).
-- 📝 More recently, I have been developing volunteer projects to teach programming in basic education using NoCode and LowCode Tools.
 
 - 📫 How to reach me 
           eduardoamirandag7@gmail.com
